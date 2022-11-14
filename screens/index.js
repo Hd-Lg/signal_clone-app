@@ -1,6 +1,6 @@
 import LoginScreen from "./LoginScreen";
 import RegisterScreen from "./RegisterScreen";
 import HomeScreen from "./HomeScreen";
-import AddChat from "./AddChat";
+import AddChatScreen from "./AddChatScreen";
 
-export { LoginScreen, RegisterScreen, HomeScreen, AddChat };
+export { LoginScreen, RegisterScreen, HomeScreen, AddChatScreen };
